@@ -61,7 +61,7 @@ try {
 }
 
 // Progression 3 - Filter players that debuted in _ year
-s
+
 function filterByDebut(year) {
 
 
